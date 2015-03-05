@@ -1,0 +1,11 @@
+{
+    "author": "madisonjbrooks12",
+    "name": "section2",
+    "version":"0.1.1",
+    "description": "Simple web server",
+    "main": "static",
+    "dependencies": {},
+    "enginec": {
+        "node": "*"
+    }
+}
