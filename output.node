@@ -1,0 +1,276 @@
+nohup: ignoring input
+comment route
+In Getcity
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+In Getcity
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+In Getcity
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+In Getcity
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+In Getcity
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+In Getcity
+/^St/
+Sterling
+Stockton
+[ { city: 'Sterling' }, { city: 'Stockton' } ]
+In Getcity
+/^Ster/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^Sterl/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^Sterli/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^Sterlin/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^Sterling/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^Sterling/
+Sterling
+[ { city: 'Sterling' } ]
+In Getcity
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+In Getcity
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+In Getcity
+/^Pl/
+Pleasant Grove
+Plymouth
+[ { city: 'Pleasant Grove' }, { city: 'Plymouth' } ]
+In Getcity
+/^Ple/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Plea/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleas/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasa/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasan/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant G/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant G/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant Gr/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant Gro/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant Grove/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
+In Getcity
+/^Pleasant Grove/
+Pleasant Grove
+[ { city: 'Pleasant Grove' } ]
