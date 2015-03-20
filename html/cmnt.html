@@ -9,8 +9,15 @@ $(document).ready(function(){
         var jobj = JSON.stringify(myobj);
         $("#json").text(jobj);
         var url = "http://52.10.202.22:80/comment";
-        $.post(url,jobj,function(data,textStatus) {
-          $("#done").text(textStatus);
+        $.ajax ({
+            url: url,
+            type: "POST",
+            data: jobj,
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function(data){
+              $("#done").html("<p>Success</p>");
+            }
         });
     });
     $("#button2").click(function(){
